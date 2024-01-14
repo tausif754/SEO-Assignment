@@ -1,0 +1,25 @@
+Answer:- A favicon, short for "favorite icon," is a small, typically square
+image or icon associated with a website. Favicons are displayed in various
+places, such as the browser's address bar, tabs, bookmarks, and other places
+where the website is referenced. They serve as a visual representation of the
+website and are often used for branding and easy identification.
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Website</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+    <!-- Other Head Elements (CSS, etc.) can be included here -->
+  </head>
+  <body>
+    <!-- Your website content goes here -->
+
+    <!-- JavaScript, other scripts, or the rest of your HTML content can be included here -->
+  </body>
+</html>
